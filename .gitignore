@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.cache/
+.claude/
+build/
+dist/
+results/
+*.spec
+*.exe
+NUL.exe
+show.exe
+.idea/
+.vscode/
+*.swp
+*.swo
